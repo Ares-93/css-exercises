@@ -1,16 +1,17 @@
-p{
-  background-color: pink;
-  font-family: "Verdana", DejaVu Sans, sans-serif;
-  font-size: 24px;
+p
+{
+  background-color: lightcoral;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+  font-size: 12px;
 }
 
-#NO.2
+#NO2 
 {
   color: blue;
   font-size: 36px;
 }
 
-#NO.4
+#NO4
 {
   background-color: lightgreen;
   font-size: 24px;
@@ -19,5 +20,5 @@ p{
 
 .cooler
 {
-  font-size: 24;
+  font-size: 24px;
 }
