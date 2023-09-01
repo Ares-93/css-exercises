@@ -3,3 +3,16 @@ p{
   font-family: "Verdana", DejaVu Sans, sans-serif;
   font-size: 24px;
 }
+
+#NO.2
+{
+  color: blue;
+  font-size: 36px;
+}
+
+#NO.4
+{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold; 
+}
